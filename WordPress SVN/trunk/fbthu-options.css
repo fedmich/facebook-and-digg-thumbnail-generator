@@ -1,0 +1,9 @@
+
+.fbthu_guide fieldset legend{
+	font-size: 18px;
+	font-weight : bold;
+}
+.fbthu_guide fieldset{
+	-moz-border-radius:6px 6px 6px 6px; background-color:#F7F3E5; border:4px solid #EBE4CE; padding:5px 5px 0px 5px; color:#754C24;
+	margin-bottom: 10px;
+}
